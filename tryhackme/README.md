@@ -11,4 +11,4 @@ This is my personal connection of write-ups for the platform TryHackMe
 | Room Name | Difficulty Level | Skills Focused |
 |-----------|------------------|----------------|
 |[Vulnversity](./Vulnversity/vulnversity.pdf)|Easy|Nmap, GoBuster, BurpSuite|
-
+|[Basic Pentesting](./Basic_Pentesting/basicpentesting.pdf)|Easy|Nmap, Gobuster, SSH, smb, John|
